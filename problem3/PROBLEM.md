@@ -1,4 +1,4 @@
-PROBLEM 4
+PROBLEM 3
 =========
 
 Aims
